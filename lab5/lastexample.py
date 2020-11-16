@@ -5,7 +5,7 @@ while  psw != password :
   break
 
 if psw == 'help' :
-  print(psw[0])
+  print(password[0])
 
 elif psw == True :
   print('welcome')
